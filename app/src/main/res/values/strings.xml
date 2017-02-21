@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ContactsTest</string>
+    <string name="all_contacts">all_contacts</string>
+    <string name="me_info">me_info</string>
+    <string name="search">search</string>
+    <string name="credits">credits</string>
+
+    <string name="about">Credits</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="email">Email</string>
+    <string name="password">password</string>
+    <string name="login_button">login_button</string>
+    <string name="forgot_password">forgot_password</string>
+    <string name="login_using_">login_using</string>
+    <string name="create_account">create_account</string>
+    <string name="lorem_ipsum">"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</string>
+
+
+</resources>

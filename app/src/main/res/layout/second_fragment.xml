@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/gender"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="gender"/>
+
+        <TextView
+            android:id="@+id/nametitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="nametitle"/>
+        <TextView
+
+            android:id="@+id/namefirst"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="namefirst"/>
+
+        <TextView
+            android:id="@+id/namelast"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="namelast"/>
+
+        <TextView
+            android:id="@+id/location"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="location"/>
+        <TextView
+            android:id="@+id/emails"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="emails"/>
+        <TextView
+            android:id="@+id/username"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="username"/>
+        <TextView
+            android:id="@+id/phones"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="phones"/>
+        <TextView
+            android:id="@+id/cell"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="cell"/>
+        <TextView
+            android:id="@+id/ssn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="ssn"/>
+      <!--  <TextView
+            android:id="@+id/picture"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />-->
+</LinearLayout>
